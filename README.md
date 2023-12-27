@@ -16,8 +16,10 @@ https://paperswithcode.com/dataset/exdark
 
 ## Implementação do YoloV3 usando Google Colab
 
-Foi utilizado uma implementação base do YoloV3 da darknet no Google Colab, feita pelo https://www.youtube.com/@ArtificiallyIntelligents, e-mail: sajidurrehman1@gmail.com
+Foi utilizado uma implementação base do YoloV3 da darknet no Google Colab, feita pelo https://www.youtube.com/@ArtificiallyIntelligents, e-mail: sajidurrehman1@gmail.com.
+
 Esta implementação era originalmente para detecção de armas (apenas uma classe).
+
 Assim, modifiquei a implementação para ser treinada e testada com o dataset ExDark.
 
 ## Teste com vídeos capturados localmente
