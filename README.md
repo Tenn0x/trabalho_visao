@@ -10,4 +10,4 @@ https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
 https://paperswithcode.com/dataset/exdark
 
-<img src="/imagens/gif1_teste.gif">
+<img src="/images/exdarkimg.gif">
